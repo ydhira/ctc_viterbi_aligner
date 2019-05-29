@@ -1,0 +1,16 @@
+ctcdecode==0.4
+six==1.12.0
+librosa==0.6.3
+numpy==1.15.4
+wget==3.2
+visdom==0.1.8.8
+torch==1.0.1.post2
+tqdm==4.31.1
+python_speech_features==0.6
+scipy==1.2.1
+StringDist==1.0.9
+python_Levenshtein==0.12.0
+apex==0.9.10dev
+Flask==1.0.3
+protobuf==3.8.0
+tensorboardX==1.7
