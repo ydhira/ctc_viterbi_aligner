@@ -4,7 +4,7 @@ librosa==0.6.3
 numpy==1.15.4
 wget==3.2
 visdom==0.1.8.8
-torch==1.0.1.post2
+torch==1.13.1
 tqdm==4.31.1
 python_speech_features==0.6
 scipy==1.2.1
